@@ -1,0 +1,25 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "an-old-hope-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "c13c98a2-6545-fe0e-af88-9e5db292057f"
+  fonts:
+    fontFamily: "FiraCode"
+  welcome:
+    showOnStartup: false
+".html.php.text":
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+".php.source.wordpress":
+  editor:
+    showIndentGuide: true
