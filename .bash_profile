@@ -1,5 +1,3 @@
-alias symmetri="cd /Applications/XAMPP/htdocs/fed16/dynweb/assignments/wordpress/wp-content/themes/symmetri"
-alias plugin="cd /Applications/XAMPP/htdocs/fed16/dynweb/assignments/wordpress/wp-content/plugins/symmetri-workspace"
 alias g="git"
 alias dev="cd ~/Documents/development/"
 
