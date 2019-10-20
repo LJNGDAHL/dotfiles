@@ -33,11 +33,3 @@ To directly install apps from Mac Appstore, run this command:
 ```bash
 ./mas.sh
 ```
-
-### Install Atom packages
-
-To install starred atom packages, run:
-
-```bash
-apm starred --install
-```
