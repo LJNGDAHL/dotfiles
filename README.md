@@ -6,7 +6,7 @@
 
 ### Using Git and the setup script
 
-You can clone the repository wherever you want (I like to keep it in `~/development/dotfiles`).
+You can clone the repository wherever you want (I like to keep it in `~/Developer/dotfiles`).
 
 ```bash
 git clone https://github.com/LJNGDAHL/dotfiles && cd dotfiles && source setup.sh
