@@ -98,6 +98,8 @@ setopt HIST_REDUCE_BLANKS
 PURE_GIT_PULL=0
 
 # Use Pure Prompt: https://github.com/sindresorhus/pure
+fpath+=$HOME/.zsh/pure
+
 autoload -U promptinit; promptinit
 prompt pure
 
